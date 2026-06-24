@@ -1,0 +1,26 @@
+.title {
+  color: #2e2f42;
+  text-align: center;
+  font-weight: 700;
+  font-style: bold;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 2%;
+}
+.portfolio > h3 {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.portfolio > p {
+  color: #434455;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+}
+.portfolio {
+    list-style-type: none;
+}

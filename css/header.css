@@ -1,0 +1,26 @@
+.web {
+  color: #4d5ae5;
+  font-style: bold;
+  font-weight: 700;
+  line-height: 24px;
+  font-family: "Raleway";
+}
+.studio {
+  color: #2e2f42;
+  font-style: bold;
+  font-weight: 700;
+  line-height: 24px;
+  font-family: "Raleway";
+}
+.nav {
+  list-style-type: none;
+  font-style: medium;
+  line-height: 24px;
+  font-weight: 500;
+}
+.address {
+  list-style-type: none;
+  font-style: normal;
+  line-height: 24px;
+  font-weight: 400;
+}

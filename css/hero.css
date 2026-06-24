@@ -1,0 +1,19 @@
+.hero {
+  background-color: #2e2f42;
+  max-width: 1158px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  max-width: 496px;
+}
+button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+  font-weight: 500;
+}
+button:hover {
+  background-color: #404bbf;
+}
