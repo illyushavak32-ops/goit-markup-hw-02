@@ -1,8 +1,8 @@
-.footer {
+#footer {
   background-color: #2e2f42;
 }
 footer > p {
-  color: #ffffff;
+  color: #f4f4fd;
   font-weight: 400;
   line-height: 1.5;
 }
@@ -11,10 +11,14 @@ footer > p {
   font-family: "Raleway";
   font-weight: 700;
    letter-spacing: 0.03em;
+   text-transform: none;
+   line-height: 1.33;
 }
 .ocean {
   color: #4d5ae5;
   font-family: "Raleway";
   font-weight: 700;
   letter-spacing: 0.03em;
+  text-transform: none;
+  line-height: 1.33;
 }
