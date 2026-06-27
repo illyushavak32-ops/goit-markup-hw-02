@@ -1,8 +1,11 @@
 a {
   text-decoration: none;
-  color: inherit; /
+  color: inherit; 
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: black;
+  color: #2e2f42;
+}
+ul {
+  list-style: none;
 }

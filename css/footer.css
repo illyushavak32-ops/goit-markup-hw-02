@@ -4,17 +4,17 @@
 footer > p {
   color: #ffffff;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
 }
 .white {
   color: #f4f4fd;
   font-family: "Raleway";
   font-weight: 700;
-  font-style: bold;
+   letter-spacing: 0.03em;
 }
 .ocean {
   color: #4d5ae5;
   font-family: "Raleway";
   font-weight: 700;
-  font-style: bold;
+  letter-spacing: 0.03em;
 }

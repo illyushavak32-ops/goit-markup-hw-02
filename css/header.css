@@ -1,26 +1,33 @@
 .web {
   color: #4d5ae5;
-  font-style: bold;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 1.5;
   font-family: "Raleway";
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 .studio {
   color: #2e2f42;
-  font-style: bold;
   font-weight: 700;
-  line-height: 24px;
+  line-height: 1.5;
   font-family: "Raleway";
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 .nav {
   list-style-type: none;
-  font-style: medium;
-  line-height: 24px;
+  line-height: 1.5;
   font-weight: 500;
 }
+.nav:hover {
+  color: #404BBF;
+}
 .address {
+  color: #434455;
   list-style-type: none;
-  font-style: normal;
-  line-height: 24px;
+  line-height: 1.5;
   font-weight: 400;
+}
+.address:hover {
+  color: #404BBF;
 }
