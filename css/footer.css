@@ -1,10 +1,12 @@
-#footer {
+.footer {
   background-color: #2e2f42;
 }
 footer > p {
   color: #f4f4fd;
   font-weight: 400;
   line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-size: 16px;
 }
 .white {
   color: #f4f4fd;
@@ -13,6 +15,7 @@ footer > p {
    letter-spacing: 0.03em;
    text-transform: none;
    line-height: 1.33;
+   font-size: 18px;
 }
 .ocean {
   color: #4d5ae5;
@@ -21,4 +24,5 @@ footer > p {
   letter-spacing: 0.03em;
   text-transform: none;
   line-height: 1.33;
+  font-size: 18px;
 }
