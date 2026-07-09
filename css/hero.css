@@ -1,7 +1,7 @@
 .hero {
   background-color: #2e2f42;
 }
-.hero > h1 {
+.solutions {
   text-align: center;
   color: white;
   font-weight: 700;
@@ -9,7 +9,7 @@
   font-size: 56px;
   letter-spacing:0.02em;
 }
-.hero > button {
+.button {
   color: #ffffff;
   background-color: #4d5ae5;
   cursor: pointer;
