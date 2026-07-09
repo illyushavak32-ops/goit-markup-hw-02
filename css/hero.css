@@ -18,10 +18,10 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
 }
-button:hover {
+.button:hover {
   background-color: #404bbf;
 }
-button:focus {
+.button:focus {
   background-color: #404bbf;
 }
 
